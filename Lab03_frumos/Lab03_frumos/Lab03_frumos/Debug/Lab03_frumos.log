@@ -1,0 +1,7 @@
+﻿  Node.cpp
+  Source.cpp
+  Tree.cpp
+C:\Users\popaa\source\repos\LAB03_REFORMEDD\Lab03_frumos\Lab03_frumos\Tree.cpp(40,13): warning C4099: 'Node': type name first seen using 'class' now seen using 'struct'
+C:\Users\popaa\source\repos\LAB03_REFORMEDD\Lab03_frumos\Lab03_frumos\Node.h(2): message : see declaration of 'Node'
+  Generating Code...
+  Lab03_frumos.vcxproj -> C:\Users\popaa\source\repos\LAB03_REFORMEDD\Lab03_frumos\Debug\Lab03_frumos.exe
